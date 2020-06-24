@@ -23,7 +23,7 @@ body {
 
 .flickity-slider,
 .flickity-viewport {
-    height: 100% !important;
+    height: 100vh !important;
 }
 
 .gallery {
@@ -210,3 +210,10 @@ body {
     top: 2%;
     color: #fff;
 }
+
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
