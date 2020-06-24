@@ -15,7 +15,7 @@ body {
     padding: 0;
     margin: 0;
     overflow: hidden;
-    background: url('../img/aramaic-bg.jpg');
+    background: #000 url('../img/aramaic-bg.jpg');
     background-size: cover;
 }
 
