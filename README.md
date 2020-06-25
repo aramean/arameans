@@ -19,3 +19,4 @@
 * Archbishop Touma Audo
 * Bishop Israel Audo
 * Patriarch Aphrem Barsaum
+* Naaman Abdelmesih Karabash
