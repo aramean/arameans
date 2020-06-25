@@ -13,7 +13,7 @@
 * Professor Dietrich Hermann Hegewisch
 * Professor Theodor Mommsen
 * Professor Theodor Nöldeke
-* Professor Ruben Duval
+* Professor Rubens Duval
 * Abraham Yohannan
 * Max von Oppenheim
 * Archbishop Touma Audo
