@@ -1,9 +1,21 @@
 # The Syriac origin of the Aramean people
 
 ## People
-1. Poseidonios of Apamea
-2. Strabo from Amasya
-3. Yosef ben Matityahu
-4. Pope Eusebius Pamphili
-5. Bishop Jacob of Edessa
-6. Al-Mas'udi
+* Poseidonios of Apamea
+* Strabo from Amasya
+* Yosef ben Matityahu
+* Pope Eusebius Pamphili
+* Bishop Jacob of Edessa
+* Al-Mas'udi
+* Bishop Hassan Bar Bahlul
+* Patriarch Michael the Syriac
+* Gregorios Bar Hebraeus
+* Professor Dietrich Hermann Hegewisch
+* Professor Theodor Mommsen
+* Professor Theodor Nöldeke
+* Professor Ruben Duval
+* Abraham Yohannan
+* Max von Oppenheim
+* Archbishop Touma Audo
+* Bishop Israel Audo
+* Patriarch Aphrem Barsaum
