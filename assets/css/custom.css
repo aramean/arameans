@@ -213,7 +213,23 @@ body {
 
 
 @media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
+    
+    .gallery{
+        position: relative;
+    }
+
+    .gallery-cell .image{
+        position: relative;
+        transform: unset;
+        right: unset;
+        margin: 0 auto;
+    }
+
+    .gallery-cell .text{
+        position: relative;
+        width: 100%;
+        transform: unset;
+        right: unset;
+        margin-left: unset;
     }
   }
