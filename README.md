@@ -1,6 +1,6 @@
 # The Syriac origin of the Aramean people
 
-##People
+## People
 1. Poseidonios of Apamea
 2. Strabo from Amasya
 3. Yosef ben Matityahu
