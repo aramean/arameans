@@ -42,7 +42,7 @@ body {
 }
 
 
-.image {
+.gallery-cell .image {
     background: black;
     position: relative;
     overflow: hidden;
@@ -58,7 +58,7 @@ body {
     box-shadow: -100px -10px 100px rgba(164, 35,35, .5);
 }
 
-.image .circle {
+.gallery-cell .image .circle {
     display: inline-block;
     position: relative;
     width: 100%;
@@ -67,7 +67,7 @@ body {
     border-radius: 50%;
 }
 
-.image .circle img{
+.gallery-cell .image .circle img{
     width: auto;
     height: 105%;
     margin-bottom: 50px;
@@ -222,14 +222,37 @@ body {
         position: relative;
         transform: unset;
         right: unset;
+        left: unset;
+        top: 10%;
         margin: 0 auto;
     }
 
     .gallery-cell .text{
         position: relative;
+        top: 10%;
         width: 100%;
         transform: unset;
         right: unset;
         margin-left: unset;
     }
+
+    .gallery-cell .text quote{
+        font-size: 5vw;
+        line-height: 5.5vw;
+    }
+
+    .gallery-cell .text h1{
+        font-size: 3.3vw;
+    }
+
+    .gallery-cell .text h2{
+        font-size: 3vw;
+        padding-top: 1vw;
+    }
+
+    .gallery-cell .text cite{
+        font-size: 2vw;
+        padding-top: 7vw;
+    }
+
   }
