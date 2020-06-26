@@ -261,4 +261,12 @@ body {
         top: 18%;
     }
 
+    .flickity-prev-next-button.previous{
+        left: 10%;
+    }
+
+    .flickity-prev-next-button.next{
+        right: 10%;
+    }
+
   }
