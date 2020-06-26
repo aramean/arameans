@@ -214,6 +214,10 @@ body {
 
 @media only screen and (max-width: 600px) {
     
+    body{
+        background-size: contain;
+    }
+
     .gallery{
         position: relative;
     }
@@ -225,6 +229,7 @@ body {
         left: unset;
         top: 10%;
         margin: 0 auto;
+        box-shadow: 100px -10px 100px rgba(164, 35,35, .5)
     }
 
     .gallery-cell .text{
@@ -234,20 +239,21 @@ body {
         transform: unset;
         right: unset;
         margin-left: unset;
+        background: rgba(164, 35,35, .5);
     }
 
     .gallery-cell .text quote{
-        font-size: 5vw;
-        line-height: 6vw;
+        font-size: 6vw;
+        line-height: 7vw;
     }
 
     .gallery-cell .text h1{
-        font-size: 3.3vw;
+        font-size: 4vw;
     }
 
     .gallery-cell .text h2{
-        font-size: 3vw;
-        padding-top: 1vw;
+        font-size: 3.3vw;
+        padding-top: 2vw;
     }
 
     .gallery-cell .text cite{
