@@ -224,6 +224,8 @@ body {
 
     .gallery-cell .image{
         position: relative;
+        width: 50vw;
+        height: 50vw;
         transform: unset;
         right: unset;
         left: unset;
@@ -233,11 +235,13 @@ body {
     }
 
     .gallery-cell .text{
-        position: relative;
-        top: 10%;
+        position: absolute;
+        bottom: 0;
         width: 100%;
+        height: 60%;
         transform: unset;
         right: unset;
+        top: unset;
         margin-left: unset;
         background: rgba(164, 35,35, .5);
     }
@@ -249,24 +253,25 @@ body {
     }
 
     .gallery-cell .text h1{
-        font-size: 4vw;
+        font-size: 5vw;
+        line-height: 5.5vw;
     }
 
     .gallery-cell .text h2{
         font-size: 3.3vw;
         padding-top: 2vw;
-        padding-bottom: 5vw;
+        padding-bottom: 10vw;
     }
 
     .gallery-cell .text cite{
         font-size: 2vw;
-        padding-top: 7vw;
+        padding-top: 12vw;
     }
 
     .flickity-prev-next-button{
         width: 10vw;
         height: 10vw;
-        top: 13%;
+        top: 18%;
     }
 
     .flickity-prev-next-button.previous{
