@@ -21,7 +21,7 @@
 * Patriarch Aphrem Barsaum
 * Paul Al-Khoury Al-Kfarnissy
 * Naaman Abdelmesih Karabash
-
+* Patriarch Ignatius Zakka Iwas
 
 ### Example:
 https://aramean.github.io/arameans/
