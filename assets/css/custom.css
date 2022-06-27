@@ -24,6 +24,7 @@ body {
 .flickity-slider,
 .flickity-viewport {
     height: 100vh !important;
+    width: 100% !important;
 }
 
 .gallery {
