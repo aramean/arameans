@@ -10,6 +10,7 @@
 * Bishop Hassan Bar Bahlul
 * Patriarch Michael the Syriac
 * Gregorios Bar Hebraeus
+* Dionysius Bar Salibi
 * Professor Dietrich Hermann Hegewisch
 * Professor Theodor Mommsen
 * Professor Theodor Nöldeke
